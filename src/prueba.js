@@ -1,1 +1,1 @@
-print("solo es prueba - borrar despues")
+print("solo es prueba-borrar despues")
